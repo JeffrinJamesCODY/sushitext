@@ -1,2 +1,2 @@
 # sushitext
-Sushitext, a limited, currency based encrypted text program. 
+Sushitext, a fun and enjoyable generator program. 
