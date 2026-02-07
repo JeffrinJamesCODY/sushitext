@@ -1,2 +1,2 @@
 # sushitext
-Sushitext, a fun and enjoyable generator program. 
+Sushitext, an super-encrypted texting platform.
